@@ -31,10 +31,10 @@
     "@remix-run/netlify": "^1.6.8",
     "@remix-run/node": "^1.6.8",
     "@remix-run/react": "^1.6.8",
-    "@supabase/supabase-js": "^1.31.1",
+    "@supabase/supabase-js": "^2.39.3",
     "@testing-library/cypress": "^8.0.3",
     "bcryptjs": "^2.4.3",
-    "cypress": "^10.4.0",
+    "cypress": "^13.13.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "tiny-invariant": "^1.2.0"
